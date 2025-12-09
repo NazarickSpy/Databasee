@@ -1,0 +1,10 @@
+admin:admin123
+cryskyy:password123
+user1:pass123
+user2:pass456
+test:test123
+developer:devpass
+demo:demopass
+botuser:botpass
+admin2:secure123
+crasher:crashpass
